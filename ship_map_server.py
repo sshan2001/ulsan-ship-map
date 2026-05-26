@@ -207,6 +207,41 @@ MOORING_FACILITIES = {
         "lon": dms_to_decimal(129, 27, 34.0),
         "radius_m": 250,
     },
+        "SK_B#2": {
+        "code": "SK_B#2",
+        "type": "부이",
+        "capacity": "-",
+        "lat": 35.4388,
+        "lon": 129.3934,
+        "radius_m": 120,
+    },
+
+    "SK_B#3": {
+        "code": "SK_B#3",
+        "type": "부이",
+        "capacity": "-",
+        "lat": 35.4295,
+        "lon": 129.3933,
+        "radius_m": 120,
+    },
+
+    "S.OIL_B#1": {
+        "code": "S.OIL_B#1",
+        "type": "원유부이",
+        "capacity": "-",
+        "lat": 35.4071,
+        "lon": 129.3954,
+        "radius_m": 180,
+    },
+
+    "S.OIL_B#2": {
+        "code": "S.OIL_B#2",
+        "type": "원유부이",
+        "capacity": "-",
+        "lat": 35.3967,
+        "lon": 129.3931,
+        "radius_m": 180,
+    },
 }
 
 
